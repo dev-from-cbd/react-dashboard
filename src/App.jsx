@@ -25,7 +25,9 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">React JS Dashboard. Vite, etc..</p>
+      <p className="read-the-docs">
+        React JS Dashboard. Vite, Tailwind CSS, etc..
+      </p>
     </>
   );
 }
