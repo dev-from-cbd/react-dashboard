@@ -5,8 +5,8 @@ function App() {
     <>
       <main className="flex">
         <Sidebar />
+        <div>Components</div>
       </main>
-      <div>Components</div>
     </>
   );
 }
